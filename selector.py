@@ -1,4 +1,4 @@
-aimport pygame
+import pygame
 from button import button
 
 class level_selector:
